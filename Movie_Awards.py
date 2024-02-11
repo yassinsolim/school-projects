@@ -1,6 +1,6 @@
 # awards.py
 # ENDG 233 F21
-# Yassin Soliman 30205455
+# Yassin Soliman
 # A terminal-based program for analyzing movie awards data.
 # You must include the code listed below. You may add your own additional functions, variables, etc. 
 # You may not import any modules.
