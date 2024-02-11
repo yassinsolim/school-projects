@@ -2,7 +2,7 @@
 # Portfolio Project 1
 # rover.py
 # Program for calculating the time it takes a rover to travel depending on rover parameters and storm status.
-# Yassin Soliman 30205455
+# Yassin Soliman
 
 
 # This module can be used to access math.floor() and math.ceil() as needed.
